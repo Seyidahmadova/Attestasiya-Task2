@@ -16,7 +16,6 @@ function gettime() {
     return `${now.getHours()}:${now.getMinutes()}`
 }
 
-// var arr= {}
 class Messenger extends Message{
     constructor(){
         super()
